@@ -1,10 +1,19 @@
 {
-  "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
-  }],
+  "apps": [
+	{
+		"serverURL": "https://dev-nyc1.pnrec.com/v1",
+		"appId": "PhoneNotesServer",
+		"masterKey": "6laF5YrOlQ",
+		"appName": "PhoneNotesDev@DigitalOcean",
+		"iconName": ""
+	},
+	{
+		"serverURL": "https://phonenotesrecorder-dev.appspot.com/v1",
+		"appId": "PhoneNotesServer",
+		"masterKey": "6laF5YrOlQ",
+		"appName": "PhoneNotesDev@GAE",
+		"iconName": ""
+	}
+  ],
   "iconsFolder": "icons"
 }
